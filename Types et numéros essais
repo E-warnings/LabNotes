@@ -1,0 +1,55 @@
+Types d'essais
+
+C0200T : Test CT martyr 8502
+
+    Numéros essais : 
+        
+
+MMFC0T : Test contraintes sur martyr MFC
+
+    Numéros essais : 
+        0.1 : Remise en route MFC
+        0.2 : Test MFC
+        0.3 : Test MFC
+
+EPCM80: Essai propa cassure de mines sur micro 80
+
+    Numéro essais : 
+        0.1 : streaming propa
+        0.2 : streaming surf/vol
+        0.3 : propa surf obstacle
+        
+EPCN30: Essai propa cassure de mines sur nano30
+
+    Numéro essais : 
+        0.1 : célérité surf
+        0.2 : célérité vol
+        0.3 : avancée fissure
+        0.4 : frottements
+        0.5 : streaming
+        
+EPC2CD: Essai propa cassure de mines sur 2 capteurs différents (micro80 et R5a)
+
+    Numéro essais : 
+        0.1 : AST
+        0.2 : propa surf/vol
+        0.3 : streaming  
+
+TMCR01 : Essai de Théophile avec multiplets, fatigue à contrainte cyclique et R=-1 (fatigue_R-1_375MPa_13_10_20_38dB_8counts)
+
+        1.1 
+                
+DCMS1N : Essai DENT martyr sur MFC à R = 0.1, contrainte imposée
+
+    0.1 : Essai 
+    0.2 : préparation relancement (sans acquisition)
+
+DCCS1D : Essai DENT courant sur MFC à R = 0.7, contrainte imposée  
+
+    0.1 : Essai
+
+DPMS0T : Essai de fatigue de Théophile sur MTS avec éprouvette dogbone plate, contrainte imposée à R=-1
+
+    1.1 : test_7075t6_sa187.5_se229_05_12_20_01
+    2.1 : essai_fatigue_mts_cera_2_187_229_18_12
+    3.1 : fatigue_test_mts_r01_sp3_bare
