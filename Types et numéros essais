@@ -46,7 +46,7 @@ DCMS1N : Essai DENT martyr sur MFC à R = 0.1, contrainte imposée
 
 DCCS1D : Essai DENT courant sur MFC à R = 0.7, contrainte imposée  
 
-    0.1 : Essai
+    0.1 : Essai [à raffiner puis filtrer à 40dB]
 
 DPMS0T : Essai de fatigue de Théophile sur MTS avec éprouvette dogbone plate, contrainte imposée à R=-1
 
