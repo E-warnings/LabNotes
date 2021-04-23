@@ -37,7 +37,7 @@ EPC2CD: Essai propa cassure de mines sur 2 capteurs différents (micro80 et R5a)
 
 TMCR01 : Essai de Théophile avec multiplets, fatigue à contrainte cyclique et R=-1 (fatigue_R-1_375MPa_13_10_20_38dB_8counts)
 
-        1.1 
+        1.1 [à réétudier]
                 
 DCMS1N : Essai DENT martyr sur MFC à R = 0.1, contrainte imposée
 
