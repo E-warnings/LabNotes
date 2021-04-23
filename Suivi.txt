@@ -1,0 +1,12 @@
+Suivi quotidien
+
+23 avril 2021 :
+    - taches 
+        fct localisation
+        mail Joel
+        mail Alain .DTA
+        Multiplet DCCS1D_7075
+    - Remarques : 
+        DPMS0T_7075_1.1 : pas le bon format d'export (HDD, TDD, WF) -> reexporter
+
+ 
