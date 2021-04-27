@@ -1,0 +1,17 @@
+Problématiques et éléments de recherche
+
+Def : 
+ - Cluster = Paquets constitué de WF d'un même essai dont les coefficients
+             d'inter-corrélation dépasse un seuil défini
+ - Multiplet = Cluster dont la source identifiée est la propagation
+               d'une fissure de fatigue en régime de Paris
+             = Cluster + condition sur contrainte d'émission + condition sur localisation ?
+
+- Comment constituer nos multiplets ? (suivant la définition)
+    1. Tout simplement "cluster de signaux corrélés au dessus d'un seuil" = multiplets
+    2. Créer les clusters puis sélectionner ceux qui vérifient les conditions 
+
+- Choix de la fenêtre de corrélation ? 
+    * Prétrigger ou non ?
+    * Partie impulsive ou non ?
+        Si oui, comment définir sa taille ?
