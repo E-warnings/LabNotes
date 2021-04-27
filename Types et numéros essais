@@ -48,8 +48,9 @@ DCCS1D : Essai DENT courant sur MFC à R = 0.7, contrainte imposée
 
     0.1 : Essai [à raffiner puis filtrer à 40dB]
 
-DPMS0T : Essai de fatigue de Théophile sur MTS avec éprouvette dogbone plate, contrainte imposée à R=-1
+DPMS0T : Essai de fatigue de Théophile sur MTS avec éprouvette dogbone plate, contrainte imposée [moy = 229 MPa, dP = 187.5 MPa] à R= 0.1, D = 65mm, 
 
-    1.1 : test_7075t6_sa187.5_se229_05_12_20_01 [à reexporter]
+    1.1 : test_7075t6_sa187.5_se229_05_12_20_01 [à reexporter] [Pas les mêmes conditions exp]
     2.1 : essai_fatigue_mts_cera_2_187_229_18_12
     3.1 : fatigue_test_mts_r01_sp3_bare
+    4.1 : fatigue_mts_r01_bare_7075t6_sp4 [Mauvais format de temps...]

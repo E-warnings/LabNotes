@@ -8,5 +8,17 @@ Suivi quotidien
         Multiplet DCCS1D_7075
     - Remarques : 
         DPMS0T_7075_1.1 : pas le bon format d'export (HDD, TDD, WF) -> reexporter
+        DPMS0T_7075_4.1 : mauvais format de temps HDD & TDD
 
- 
+26 avril 2021 : 
+    - taches
+        Tester localisation DCCS1D et DCMS1N
+        Mail TTL : MFC & Instron
+        Recup photo mouchetis
+        Ufreckles
+
+27 avril 2021 : 
+    - Taches
+        Clarifier ce qui est fait ou non dans l'étude des Multiplets (essais,...)
+
+
