@@ -22,4 +22,10 @@ Suivi quotidien
         Clarifier ce qui est fait ou non dans l'étude des Multiplets (essais,...)
         recup MDP
 
+07 mai 2021 : 
+    - taches : 
+        Exporter .DAT de l'essai CT et organiser les fichiers
+        Formation MEB pour faciès de rupture et préparer échantillons (DCCS1D,DSM1N)
+        Effacer mouchetis avec solvant et refaire mouchetis avec aérographe
+        Goupilles
 

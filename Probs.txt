@@ -2,9 +2,12 @@ Problématiques et éléments de recherche
 
 Def : 
  - Cluster = Paquets constitué de WF d'un même essai dont les coefficients
-             d'inter-corrélation dépasse un seuil défini
+                d'inter-corrélation dépasse un seuil défini
+             -> Constitution : A partir de la matrice de corrélation (inter-corrélations
+                  de chaque WF avec toutes les autres), on met dans un même cluster toutes 
+                  les WF dont au moins une inter-corrélation dépasse le seuil.
  - Multiplet = Cluster dont la source identifiée est la propagation
-               d'une fissure de fatigue en régime de Paris
+                d'une fissure de fatigue en régime de Paris
              = Cluster + condition sur contrainte d'émission + condition sur localisation ?
 
 - Comment constituer nos multiplets ? (suivant la définition)
@@ -12,6 +15,16 @@ Def :
     2. Créer les clusters puis sélectionner ceux qui vérifient les conditions 
 
 - Choix de la fenêtre de corrélation ? 
-    * Prétrigger ou non ?
-    * Partie impulsive ou non ?
+    * Prétrigger ou non ? [155 pts - 31 µs]
+    * Partie impulsive ou non ?  Article : [40µs - 200 pts]
         Si oui, comment définir sa taille ?
+
+- Choix seuil de corrélation et choix du minimum de WF dans cluster ?
+
+- Quelle décorrélation au sein d'un multiplet ?
+
+
+Questions pour Mistras : 
+    - Pourquoi pas une recherche de seuil automatique ? (lors de quelques cycles en élastique)
+    - Calcul PDT, HLT, HDT auto ? (avec quelques cassures de mines)
+       -> Méthode de calcul PDT, HLT, HDT ?
