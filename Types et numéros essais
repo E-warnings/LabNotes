@@ -55,24 +55,22 @@ DPMS0T : Essai de fatigue de Théophile sur MTS avec éprouvette dogbone plate, 
     3.1 : fatigue_test_mts_r01_sp3_bare
     4.1 : fatigue_mts_r01_bare_7075t6_sp4 [Mauvais format de temps...]
 
-C6C0SD : CT sur 8516 avec 6 capteurs, sollicitée en contrainte avec 4 niveaux de charges progressifs. 06/05/21
+C6C0SN : CT sur 8516 avec 6 capteurs, sollicitée en contrainte avec 4 niveaux de charges progressifs. 06/05/21
+    
+    Capteurs : 1=Pico 2=Nano(haut) 3=Nano(bas) 4=µ80 5=µ200 6=R50  
 
-    1.1 :    1ere partie :
-            60 000 cycles à 
-                Pmax = 9000 N      R = 0.7
-                Pmin = 6300 N      dK = 12 MPa.m1/2
+    1.1 : 1ere partie : 60 000 cycles à 
+            Pmax = 9000 N      R = 0.7
+            Pmin = 6300 N      dK = 12 MPa.m1/2
 
-    2.2 : 2eme partie 
-          10 000 cycles
+    1.2 : 2eme partie : 10 000 cycles
             Pmax = 12 kN
             Pmin = 8 kN   
 
-    3.3 : 3eme partie 
-        9000 cycles
-        Pmax = 15 kN
-        Pmon = 10 kN 
+    1.3 : 3eme partie : 9000 cycles
+            Pmax = 15 kN
+            Pmon = 10 kN 
 
-    4.4 : 4eme partie
-        9550 cycle -> rupture
-        Pmax = 20 kN
-        Pmin = 12 kN
+    1.4 : 4eme partie : 9550 cycle -> rupture
+            Pmax = 20 kN
+            Pmin = 12 kN

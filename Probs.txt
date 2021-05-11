@@ -23,8 +23,10 @@ Def :
 
 - Quelle décorrélation au sein d'un multiplet ?
 
+- Quel compromis fréquence échantillonnage WF et taille WF ? 
 
 Questions pour Mistras : 
     - Pourquoi pas une recherche de seuil automatique ? (lors de quelques cycles en élastique)
     - Calcul PDT, HLT, HDT auto ? (avec quelques cassures de mines)
        -> Méthode de calcul PDT, HLT, HDT ?
+

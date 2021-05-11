@@ -12,20 +12,30 @@ Suivi quotidien
 
 26 avril 2021 : 
     - taches
-        Tester localisation DCCS1D et DCMS1N
-        Mail TTL : MFC & Instron
+>        Tester localisation DCCS1D et DCMS1N
+>        Mail TTL : MFC & Instron
         Recup photo mouchetis
         Ufreckles
 
 27 avril 2021 : 
     - Taches
         Clarifier ce qui est fait ou non dans l'étude des Multiplets (essais,...)
-        recup MDP
+>       recup MDP
 
 07 mai 2021 : 
     - taches : 
-        Exporter .DAT de l'essai CT et organiser les fichiers
+>        Exporter .DAT de l'essai CT et organiser les fichiers
         Formation MEB pour faciès de rupture et préparer échantillons (DCCS1D,DSM1N)
         Effacer mouchetis avec solvant et refaire mouchetis avec aérographe
-        Goupilles
+        Goupilles -> Kader
+    - contacter : 
+>        Abderrhaime mouchetis
+        Alain : "exporter en analogique contrainte,deplacement,position dans le cycle en temps réel depuis carte AE ?"
+
+10 mai 2021 :
+    - taches : 
+        Exporter WF "10-8kn0", "12-8kn", "12-8kn0", "15-10kn0" SANS colonne temps
+        Etudier paramètres essai C6C0SN
+        Comparer export poids csv/txt
+        sauvegarde -> Joel
 
