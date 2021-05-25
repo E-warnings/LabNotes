@@ -23,10 +23,17 @@ Def :
 
 - Quelle décorrélation au sein d'un multiplet ?
 
-- Quel compromis fréquence échantillonnage WF et taille WF ? 
+- Quel compromis fréquence échantillonnage WF ? 
+    -> Fe a un effet sur le spectre intéressant ?
+        Elements de réponse : Visiblement sur les spectres des capteurs résonnants (N30,µ80,R50) on peut aller à 2MHz sans différences majeures. 
+                              Cependant, avec le µ200 ou le Pico, il faudrait monter à 10MHz pour couvrir leur spectre.
 
-Questions pour Mistras : 
+- Nombre de pts d'enregistrement ?
+    -> C6C0SN : 2048 ~ Est-ce trop peu ? Sur les 4 essais : 2 WF atteignent la fin de l'enregistrement.
+        
+
+- Questions pour Mistras : 
     - Pourquoi pas une recherche de seuil automatique ? (lors de quelques cycles en élastique)
     - Calcul PDT, HLT, HDT auto ? (avec quelques cassures de mines)
        -> Méthode de calcul PDT, HLT, HDT ?
-
+            "On s'en fout" -> démontré avec streaming et cassure de mines

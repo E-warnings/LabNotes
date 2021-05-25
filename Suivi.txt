@@ -29,8 +29,9 @@ Suivi quotidien
         Effacer mouchetis avec solvant et refaire mouchetis avec aérographe
         Goupilles -> Kader
     - contacter : 
->        Abderrhaime mouchetis
+>        Abderrhaime mouchetis 
         Alain : "exporter en analogique contrainte,deplacement,position dans le cycle en temps réel depuis carte AE ?"
+        Réponse : "T sur entrées analogiques" et reflection en cours pour les top synchro sur hits. Par contre, top sur début cycle pas envisagé pour l'instant... 
 
 10 mai 2021 :
     - taches : 
