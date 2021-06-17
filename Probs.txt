@@ -12,7 +12,7 @@ Def :
 
 - Comment constituer nos multiplets ? (suivant la définition)
     1. Tout simplement "cluster de signaux corrélés au dessus d'un seuil" = multiplets
-    2. Créer les clusters puis sélectionner ceux qui vérifient les conditions 
+    2. Créer les clusters puis sélectionner ceux qui vérifient certaines conditions (efforts, position dans le cycle)
 
 - Choix de la fenêtre de corrélation ? 
     * Prétrigger ou non ? [155 pts - 31 µs]
@@ -37,3 +37,13 @@ Def :
     - Calcul PDT, HLT, HDT auto ? (avec quelques cassures de mines)
        -> Méthode de calcul PDT, HLT, HDT ?
             "On s'en fout" -> démontré avec streaming et cassure de mines
+
+- Etude "courante" de fatigue en AE :
+    - Apparition de la fissure ?
+    - Quels graphs ? 
+        ->  [Temps ; Hits cumulés] / [Temps ; NRJ cumulée]
+
+- Différences et intérêts :  
+    - NRJ & absolute NRJ ?
+    - Initiation/reverberation/average freq 
+

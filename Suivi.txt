@@ -35,8 +35,29 @@ Suivi quotidien
 
 10 mai 2021 :
     - taches : 
-        Exporter WF "10-8kn0", "12-8kn", "12-8kn0", "15-10kn0" SANS colonne temps
-        Etudier paramètres essai C6C0SN
-        Comparer export poids csv/txt
+        Exporter WF "10-8kn0", "12-8kn", "12-8kn0", "15-10kn0" SANS colonne temps -> 2x moins gros
+        Etudier paramètres essai C6C0SN -> vu avec Yanis
+        Comparer export poids csv/txt -> pas de diff
         sauvegarde -> Joel
 
+26 mai 2021 : 
+    - Présentation : ^ problématique taille & nombre de WF 
+                     ^ Processus de corrélation de WF  -> OK
+
+    - Mail Joel pour solution de synchro -> OK 
+
+16 juin 2021 :
+    - Commande Disk
+    ~ DIC Joel
+    - Discussion Jérôme : 
+            ° Choix DIC : concrêtement ce qu'on veut faire => paramètres
+            ° Etude matériaux : caractérisation 3135 et 4140 (infos 7075 ?)
+            ° MEB : faciès de rupture (2 DENT, 1 CT)
+
+17 juin 2021 : 
+    - Manip USB-4704
+    - taches Pierre ? 
+        + Matlab prog ssh salle infos
+        + Carac mater's
+        + Moyen de sortir données AEwin ssh
+        
