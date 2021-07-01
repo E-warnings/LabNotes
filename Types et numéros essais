@@ -1,26 +1,22 @@
 Types d'essais
 
 C0200T : Test CT martyr 8502
-
     Numéros essais : 
         
 
 MMFC0T : Test contraintes sur martyr MFC
-
     Numéros essais : 
         0.1 : Remise en route MFC
         0.2 : Test MFC
         0.3 : Test MFC
 
 EPCM80: Essai propa cassure de mines sur micro 80
-
     Numéro essais : 
         0.1 : streaming propa
         0.2 : streaming surf/vol
         0.3 : propa surf obstacle
         
 EPCN30: Essai propa cassure de mines sur nano30
-
     Numéro essais : 
         0.1 : célérité surf
         0.2 : célérité vol
@@ -29,48 +25,53 @@ EPCN30: Essai propa cassure de mines sur nano30
         0.5 : streaming
         
 EPC2CD: Essai propa cassure de mines sur 2 capteurs différents (micro80 et R5a)
-
     Numéro essais : 
         0.1 : AST
         0.2 : propa surf/vol
         0.3 : streaming  
 
 TMCR01 : Essai de Théophile avec multiplets, fatigue à contrainte cyclique et R=-1 (fatigue_R-1_375MPa_13_10_20_38dB_8counts)
-
         1.1 [à réétudier]
                 
 DCMS1N : Essai DENT martyr sur MFC à R = 0.1, contrainte imposée
-
     0.1 : Essai 
     0.2 : préparation relancement (sans acquisition)
 
-DCCS1D : Essai DENT courant sur MFC à R = 0.7, contrainte imposée avec DIC
-
+DCC7SP (ancien DCCS1D) : Essai DENT courant sur MFC à R = 0.7, contrainte imposée avec DIC partielle
     0.1 : Essai [à raffiner puis filtrer à 40dB] + DIC partielle (pas de synchro)
 
 DPMS0T : Essai de fatigue de Théophile sur MTS avec éprouvette dogbone plate, contrainte imposée [moy = 229 MPa, dP = 187.5 MPa] à R= 0.1, D = 65mm, 
-
     1.1 : test_7075t6_sa187.5_se229_05_12_20_01 [à reexporter] [Pas les mêmes conditions exp]
     2.1 : essai_fatigue_mts_cera_2_187_229_18_12
     3.1 : fatigue_test_mts_r01_sp3_bare
     4.1 : fatigue_mts_r01_bare_7075t6_sp4 [Mauvais format de temps...]
 
-C6C0SN : CT sur 8516 avec 6 capteurs, sollicitée en contrainte avec 4 niveaux de charges progressifs. 06/05/21
-    
+C6C0SN : CT sur 8516 avec 6 capteurs, sollicitée en contrainte avec 4 niveaux de charges progressifs. 06/05/21   
     Capteurs : 1=Pico 2=Nano(haut) 3=Nano(bas) 4=µ80 5=µ200 6=R50  
-
     1.1 : 1ere partie : 60 000 cycles à 
             Pmax = 9000 N      R = 0.7
             Pmin = 6300 N      dK = 12 MPa.m1/2
-
     1.2 : 2eme partie : 10 000 cycles
             Pmax = 12 kN
             Pmin = 8 kN   
-
     1.3 : 3eme partie : 9000 cycles
-            Pmax = 15 kN
-            Pmon = 10 kN 
-
+            Pmax = 15 kN       R = 0.7 
+            Pmon = 10 kN       dK = 20 MPa.m1/2
     1.4 : 4eme partie : 9550 cycle -> rupture
             Pmax = 20 kN
             Pmin = 12 kN
+
+C6C7SP : CT sur 8516, contrainte imposée à R = 0.7 avec DIC partielle (non synchro)
+    1.1 : RAS & DIC "basse résolution" à dK = 18
+    2.1 : dK = 18 Arrêt subit de la machine (fissure amorcée)
+    2.2 : Relancement de l'essai à dK = 15 
+
+DCC7SD : DENT sur MFC, contrainte imposée à R = 0.7 avec DIC 
+    1.1 : dK = 10 - 12 000 Cycles et DIC sur 1h30 (arrêt incompris) (en théorie -> saturation)
+    2.1 : Rupture au premier cycle (fissure amorcée pendant montage)
+    3.1 : dK = 10 RAS (en théorie -> saturation)
+
+DCC1SD : DENT sur MFC, contrainte imposée à R = 0.1 avec DIC
+    1.1 : RAS - dK = 10 MPam1/2 (en théorie -> saturation)
+
+076N6 : essai de Stéphanie, alu pur à déformation imposée à 0.95%

@@ -60,4 +60,35 @@ Suivi quotidien
         + Matlab prog ssh salle infos
         + Carac mater's
         + Moyen de sortir données AEwin ssh
+        + Biblio 
+        + MEB 
+
+CR réunion E-warnings : 
+    - A faire : 
+        étudier corrélation avec distributions 
+        Clusters sur cycles
+        Dev méthode du graph matlab
         
+    - Matos :
+        micro80 a moi ?
+    §    Disk dur 
+    §     goupilles -> diamètre à augmenter !! -> BMS ?
+    §    diffuseurs
+    §    drap noir
+
+    - Matlab : 
+        localisation C6C0SN
+        distributions corré
+        graph 
+        Traitement C6C0SN_1
+
+    - PCI2 : 
+    §    Re-export DCMS1N avec seuil bas
+
+1 juillet : 
+- recup : 
+    HDD & TDD C6C7SP_4140_1.1
+    Tout : DCC7SD_4140_2.1 et 3.1 + DCCS1D
+    Tout : essais Théophile et autres ?
+
+- S'imprégner : données essais Stéphanie + codes Stéphanie
